@@ -21,4 +21,4 @@ Proyek ini bertujuan untuk membangun model Machine Learning menggunakan algoritm
 - **Insight:** Status mahasiswa (Bekerja) adalah faktor dominan keterlambatan.
 
 ## Identitas Pembuat
-- **Mata Kuliah:** Machine Learning
+- **Syahtria Akbaruari** 
